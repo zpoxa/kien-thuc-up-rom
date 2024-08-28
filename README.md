@@ -1,4 +1,4 @@
-# KIẾN THỨC CÀI ROM ANDROID CHO ĐIỆN THOẠI THÔNG MINH
+# KIẾN THỨC CÀI ROM ANDROID CHO THIẾT BỊ ANDROID
 ## 1. KHÁI NIỆM
 - __Up ROM:__ là cài bản ROM nào đó lên thiết bị Android
 - __Flash ROM:__ là cài bản ROM nào đó lên thiết bị Android, cụm từ 'flash' lấy từ tên lệnh của fastboot (điển hình như lệnh 'fastboot flash <phân vùng> <đường dẫn tệp>')
