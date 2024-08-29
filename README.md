@@ -17,6 +17,8 @@
 - __OTA:__ cụm từ 'OTA' trên thiết bị Android dùng để chỉ 'cập nhật hệ điều hành thông qua Internet'
 - __ADB:__ giống Fastboot nhưng thêm vài tính năng để nhà phát triển có thể phát triển ứng dụng thông qua giao tiếp
 - __TWRP:__ là bản recovery custom có tùy biến  cao dùng chuyên để up ROM
+- __ROM cook:__ là ROM tùy chỉnh
+- __ROM stock:__ là ROM được cài sẵn của nhà sản xuất điện thoại
 ## 2. KHÁI NIỆM BÊN XIAOMI
 - __ROM EU:__ là ROM cùa Xiaomi dành cho các nước bên châu Âu
 - __ROM China:__ là ROM cùa Xiaomi dành riêng cho Trung Quôc (bị hạn chế về mặt ngôn ngữ hệ thống trong hệ điều hành Android)
